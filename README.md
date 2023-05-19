@@ -62,7 +62,7 @@ scraper.terminate()
 For more details and advanced usage examples, please refer to the documentation.
 
 ## Documentation
-The complete documentation for easylenium can be found at <tbd>.
+The complete documentation for easylenium can be found at (tbd).
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository (https://github.com/hubertus444/easylenium).
